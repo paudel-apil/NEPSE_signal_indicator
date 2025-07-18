@@ -4,3 +4,4 @@ numpy==1.24.3
 matplotlib
 tensorflow-cpu==2.13.0
 scikit-learn
+setuptools>=58.0.0
