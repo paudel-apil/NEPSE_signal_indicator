@@ -68,3 +68,5 @@ reqd_module/
 ├── technical_indicators.py
 main.py
 </pre>
+
+###Note this is just a probabilistic indication
