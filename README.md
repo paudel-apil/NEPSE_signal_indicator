@@ -1,7 +1,7 @@
 # NEPSE_signal_indicator
 Indicates the market signal for 10 different companies listed in using the LSTM model and different technical indicators NEPSE
 
-Companies = AKPL", "ALICL", "BHL", "CHl", "HLI", "Hurja", "Nabil", "NFS", "NLIC", "Nyadi"
+Companies = AKPL, ALICL, BHL, CHl, HLI, Hurja, Nabil, NFS, NLIC, Nyadi
 
 Technical indicators includes: EMA, MACD, RSI, Supertrend, Ichimoku cloud and different type of candlestick indication like momentum candle, marubozu candles etc
 
