@@ -1,4 +1,4 @@
-# NEPSE_signal_indicator
+# NEPSE Signal Indicator
 A Streamlit-powered financial analysis tool to visualize and score NEPSE (Nepal Stock Exchange) stocks using technical indicators and candlestick patterns.
 
 ## Features
