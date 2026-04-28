@@ -1,7 +1,7 @@
 # NEPSE_signal_indicator
 A Streamlit-powered financial analysis tool to visualize and score NEPSE (Nepal Stock Exchange) stocks using technical indicators and candlestick patterns.
 
-## 🚀 Features
+## Features
 
 - Select and analyze NEPSE-listed stocks via a simple Streamlit UI
 - Calculate technical indicators like:
@@ -21,7 +21,7 @@ A Streamlit-powered financial analysis tool to visualize and score NEPSE (Nepal 
 
 ---
 
-## 🧠 What are Technical Indicators?
+## What are Technical Indicators?
 
 Technical indicators are mathematical calculations based on price, volume, or open interest of a security. They help traders make predictions about future price movements.
 
